@@ -16,4 +16,3 @@ This is a basic web application that allows users to generate QR codes from text
 5. The QR code image will be displayed below.
 6. You can scan or save the QR code as needed.
 7. Feel free to modify and customize the code according to your requirements.
-Enjoy using the QR Code Generator!
